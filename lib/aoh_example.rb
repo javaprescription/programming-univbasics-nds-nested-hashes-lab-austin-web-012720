@@ -19,7 +19,13 @@ end
 #Array. Ruby constants are denoted by ALL_CAPS
 
 def literal_aoh
-
+  array = [
+    DON_G,
+    JOELLE_VD,
+    PAT_M,
+    KATE_G,
+    BRUCE_G,
+    ]
 end
 # Using Array literal syntax only, build a nested array that uses the data in
 # held in the constants
